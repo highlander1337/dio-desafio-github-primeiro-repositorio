@@ -8,7 +8,7 @@ Imagine que tenhamos um plano de manutenção mestre para escrever, no entanto, 
 
 Para controlar o versionamento e modificações feitas em arquivos, além de sincronizar links entre eles, temos o GIT. 
 
-![Versionamento no GIT](highlander1337/dio-desafio-github-primeiro-repositorio/assets/images/rascunho-final-exemplo.png)
+![Versionamento no GIT](C:\workspace\dio-desafio-github-primeiro-repositorio\Introducao-ao-git-e-github\assets\images\rascunho-final-exemplo.png)
 
 Assim como o plano mestre de manutenção, um software não é feito sem a colaboração de diversas pessoas e expertise. Sem o monitoramento de versões e possíveis erros de alteração de código não há como desenvolver um software, pois a informação contida na nova versão pode não ser processada por uma parte do projeto e ocasionar eventuais erros de compilação.
 
