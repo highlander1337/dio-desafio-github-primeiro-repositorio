@@ -1,9 +1,14 @@
 body {
     background: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #title, .subtitle {
     color: #505050;
+}
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
 }
 
 .post_title {
